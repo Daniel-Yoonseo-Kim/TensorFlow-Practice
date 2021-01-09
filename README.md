@@ -5,20 +5,20 @@ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and De
 
 Course 1 - Part 2 - Lesson 2 - Notebook.ipynb
   Numpy and TensorFlow Imports
-  Define and Compile Neural Network
-  Training Neural Network
-  Model Predictions
+    Define and Compile Neural Network
+    Training Neural Network
+      Model Predictions
   
   
 Course 1 - Part 4 - Lesson 2 - Notebook.ipynb
   Learning Keras in TensorFlow
-  Fashion MNIST Data Exercises
+    Fashion MNIST Data Exercises
   
   
 Course 1 - Part 6 - Lesson 2 - Notebook.ipynb
   Convulutional Neural Networks
-  Computer Vision Accuracy
-  MaxPooling
+    Computer Vision Accuracy
+      MaxPooling
   
   
 Course 1 - Part 6 - Lesson 3 - Notebook.ipynb
